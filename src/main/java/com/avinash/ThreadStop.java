@@ -1,3 +1,5 @@
+package com.avinash;
+
 public class ThreadStop implements Runnable {
     private boolean stop = false;
 

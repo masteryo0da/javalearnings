@@ -1,3 +1,5 @@
+package com.avinash;
+
 import java.util.Random;
 
 public class ThreadDemo extends Thread {

@@ -1,3 +1,5 @@
+package com.avinash;
+
 public class ThreadWithException extends Thread {
     @Override
     public void run() {

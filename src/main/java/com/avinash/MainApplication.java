@@ -1,3 +1,5 @@
+package com.avinash;
+
 public class MainApplication {
     public static void main(String[] args) {
         RunnableDemo runnableDemo = new RunnableDemo(6);
