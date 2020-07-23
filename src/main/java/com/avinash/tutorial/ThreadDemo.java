@@ -1,4 +1,4 @@
-package com.avinash;
+package com.avinash.tutorial;
 
 import java.util.Random;
 

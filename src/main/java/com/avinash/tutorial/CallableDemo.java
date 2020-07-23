@@ -1,4 +1,4 @@
-package com.avinash;
+package com.avinash.tutorial;
 
 import java.util.Scanner;
 import java.util.concurrent.Callable;
@@ -11,7 +11,7 @@ public class CallableDemo implements Callable<Integer> {
     }
 
     public static void main(String[] args) throws InterruptedException, ExecutionException {
-        //        com.avinash.CallableDemo callableDemo = new com.avinash.CallableDemo();
+        //        CallableDemo callableDemo = new CallableDemo();
         //        ExecutorService executorService = Executors.newSingleThreadExecutor();
         //        // get the custom exception from the callable from execution exception
         //        Future<Integer> result = executorService.submit(callableDemo);
@@ -23,7 +23,7 @@ public class CallableDemo implements Callable<Integer> {
         //        }
         //
         //        ArrayList<Integer> arrayList = new ArrayList<>();
-        //        com.avinash.RunnableDemo runnableDemo = new com.avinash.RunnableDemo(6, arrayList);
+        //        RunnableDemo runnableDemo = new RunnableDemo(6, arrayList);
         //        Future<List<Integer>> future =  executorService.submit(runnableDemo, arrayList);
         //        if(future.isDone()) {
         //            for(int num: arrayList)

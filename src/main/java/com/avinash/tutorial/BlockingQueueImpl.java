@@ -1,9 +1,8 @@
-package com.avinash;
+package com.avinash.tutorial;
 
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Random;
-import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.ExecutorService;
 
 import static java.util.concurrent.Executors.newFixedThreadPool;

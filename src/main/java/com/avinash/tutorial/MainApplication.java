@@ -1,4 +1,4 @@
-package com.avinash;
+package com.avinash.tutorial;
 
 public class MainApplication {
     public static void main(String[] args) {
